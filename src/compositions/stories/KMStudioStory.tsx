@@ -1,5 +1,5 @@
 import React from "react";
-import { AbsoluteFill, Composition, Img, interpolate, useCurrentFrame } from "remotion";
+import { AbsoluteFill, Composition, interpolate, useCurrentFrame } from "remotion";
 
 import { COLORS } from "../../styles/colors";
 import { FONTS } from "../../styles/typography";
